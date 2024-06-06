@@ -1,8 +1,6 @@
 # OpenCV_Shirt
 This is a project using opencv
 
-# Virtual Shirt Fitting Room
-
 ## Introduction
 
 Welcome to the Virtual Shirt Fitting Room project! This application utilizes computer vision techniques and pose detection to create an interactive experience where users can virtually try on different shirts using their webcam. Built with Python, this project leverages libraries such as OpenCV, MediaPipe, and CVZone to track user poses and overlay shirts on the webcam feed in real-time.
